@@ -12,4 +12,8 @@ This project uses Python and machine learning to classify news articles as **FAK
 - Provides a Streamlit web interface for easy testing of news articles
 - Displays model accuracy, confusion matrix, and classification report
 
+### Live Demo
+Try the Fake News Detector Web App 👉 [Click Here](https://fake-news-detector-cnbxxtyju7a9m6nmidhp2d.streamlit.app)
+
+
 
